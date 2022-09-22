@@ -5,7 +5,7 @@
 **About me**
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning HTML, CSS, Javascript, React and React Native
+- 🌱 I’m currently learning HTML, CSS, Javascrip
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anerisflavia/) or [twitter](https://twitter.com/f__aneris)
 - 📔 I'm graduated in Publicity and Advertising
 - 🧝🏻‍♂️ My pronouns: she/her
